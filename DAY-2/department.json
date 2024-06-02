@@ -1,0 +1,21 @@
+{
+  "Departments": {
+    "Department": [
+      {
+        "Name": "Computer Science",
+        "Head": "Hadss",
+        "code": "CSE"
+      },
+      {
+        "Name": "Electrical Engineering",
+        "Head": "Abhi",
+        "code": "EEE"
+      },
+      {
+        "Name": "Electrical communications",
+        "Head": "Sahi",
+        "code": "ECE"
+      }
+    ]
+  }
+}
