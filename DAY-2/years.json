@@ -1,0 +1,24 @@
+{
+  "Years": {
+    "Year": [
+      {
+        "Level": "1st Year",
+        "HOD": "Hadss",
+        "StartDate": "2024-09-01",
+        "EndDate": "2025-05-31"
+      },
+      {
+        "Level": "2nd Year",
+        "HOD": "Abhi",
+        "StartDate": "2025-09-01",
+        "EndDate": "2026-05-31"
+      },
+      {
+        "Level": "3rd Year",
+        "HOD": "Sahi",
+        "StartDate": "2026-09-01",
+        "EndDate": "2027-05-31"
+      }
+    ]
+  }
+}
