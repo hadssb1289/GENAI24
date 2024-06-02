@@ -1,0 +1,24 @@
+{
+  "Students": {
+    "Student": [
+      {
+        "FirstName": "Hadss",
+        "LastName": "B",
+        "Age": 20,
+        "Major": "Computer Science"
+      },
+      {
+        "FirstName": "Abhi",
+        "LastName": "Reddy",
+        "Age": 21,
+        "Major": "Electrical Engineering"
+      },
+      {
+        "FirstName": "Uday",
+        "LastName": "G",
+        "Age": 19,
+        "Major": "Business"
+      }
+    ]
+  }
+}
