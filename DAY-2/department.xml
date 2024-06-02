@@ -1,0 +1,18 @@
+
+<Departments>
+  <Department>
+    <Name>Computer Science</Name>
+    <Head>Hadss</Head>
+    <code>CSE</code>
+  </Department>
+  <Department>
+    <Name>Electrical Engineering</Name>
+    <Head>Abhi</Head>
+    <code>EEE</code>
+  </Department>
+  <Department>
+    <Name>Electrical communications</Name>
+    <Head>Sahi</Head>
+    <code>ECE</code>
+  </Department>
+</Departments>
