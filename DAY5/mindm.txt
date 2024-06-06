@@ -1,0 +1,51 @@
+mind map - 
+PROMPTS-
+i want to have a mind map around steps for meta analysis include relevent subtopics  tools and methodologies to clearly show the  key  points. please provide a code box with markdown language
+ex-
+# Meta Analysis Steps
+
+## 1. Define Research Question
+   - Specify objectives
+   - Identify key variables
+   
+## 2. Literature Search
+   - Identify relevant studies
+   - Use databases like PubMed, Google Scholar
+   
+## 3. Study Selection
+   - Apply inclusion/exclusion criteria
+   - Screen titles, abstracts, and full texts
+   
+## 4. Data Extraction
+   - Create data extraction form
+   - Extract relevant data from selected studies
+   
+## 5. Quality Assessment
+   - Assess study quality
+   - Use tools like Cochrane Collaboration's tool
+   
+## 6. Data Synthesis
+   - Pool data across studies
+   - Perform statistical analysis
+   
+## 7. Publication Bias Assessment
+   - Check for publication bias
+   - Use funnel plots, Egger's test
+   
+## 8. Sensitivity Analysis
+   - Evaluate robustness of results
+   - Conduct subgroup analysis
+   
+## 9. Interpretation and Conclusion
+   - Discuss findings
+   - Draw conclusions
+   
+## Tools and Methodologies
+   - Statistical Software (e.g., R, Stata)
+   - Meta-analysis software (e.g., RevMan, Comprehensive Meta-Analysis)
+   - Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines
+
+Dillinger.io paste markdown language 
+export as markdown
+In xmind application paste markdown code .
+save as in your wish format 
