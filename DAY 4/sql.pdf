@@ -1,0 +1,45 @@
+Employee Table
+===========
+
+employee_id	first_name	last_name	department_id
+1	John	Doe	10
+2	Jane	Smith	20
+3	Mike	Johnson	30
+4	Emily	Davis	10
+
+
+
+Department Table
+=========
+
+
+department_id	department_name
+10	HR
+20	Sales
+30	IT
+40	Marketing
+
+
+
+get the result for 
+
+1) INNER JOIN
+2) LEFT OUTER JOIN 
+3) RIGHT OUTER JOIN
+4) FULL OUTER JOIN
+
+
+
+employee_id	first_name	last_name	email
+1	John	Doe	john.doe@example.com
+2	Jane	Smith	jane.smith@example.com
+3	John	Doe	john.doe@example.com
+4	Emily	Davis	emily.davis@example.com
+
+
+Find Duplicate records  
+
+1) Based on firstName
+2) based on  email
+3) Based on firstname and Last Name
+4) Based on firstname and email
